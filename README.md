@@ -1,1 +1,1 @@
-cronometroJS-RefStudy
+# Simples cronômetro em JS
